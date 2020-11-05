@@ -17,4 +17,5 @@ func feetToMeters() {
 
 func main() {
 	feetToMeters()
+	String()
 }
